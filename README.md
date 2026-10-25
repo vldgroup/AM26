@@ -6,11 +6,11 @@ This repository supports the manuscript:
 
 # AM26 dataset
 
-This repository currently contains the **AM26** benchmark dataset used to evaluate pre-trained MLIPs for amorphous materials.
+This repository contains the **AM26** benchmark dataset used to evaluate pre-trained MLIPs for amorphous materials.
 
 The benchmark comprises 5 amorphous systems, together with reference density-functional theory (DFT) energies and forces, spanning a diverse range of chemistries and bonding environments.
 
-The AM26 dataset is available in the [`data`](./data/) directory.
+The AM26 dataset is available in the [`data`](./data/) directory, both as a combined extxyz file (`am26.extxyz`) and as five separate files for each amorphous system.
 
 Structures included in the AM26 dataset were created using melt-quench simulations for the following systems:
 > **a-C**: Melt-quenched structures (1.5–3.5 g cm<sup>−3</sup>) generated using the [C-GAP-17](https://doi.org/10.1103/PhysRevB.95.094203) model.
