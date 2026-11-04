@@ -2,7 +2,7 @@
 
 This repository supports the manuscript:
 
-> Natascia L. Fragapane and Volker L. Deringer, *"Amorphous materials as a frontier challenge for universal interatomic potentials"* (in preparation).
+> Natascia L. Fragapane and Volker L. Deringer, *"Amorphous materials as a frontier challenge for universal interatomic potentials"*, [arXiv preprint](https://arxiv.org/abs/2607.11384).
 
 # AM26 dataset
 
